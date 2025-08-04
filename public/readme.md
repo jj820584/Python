@@ -32,7 +32,7 @@
 
 📦 필요한 패키지
 ```c
-bashpip install requests schedule pygame numpy
+pip install requests schedule pygame numpy
 ```
 ⚙️ 사용법
 1. 기본 설정
