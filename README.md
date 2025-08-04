@@ -1,6 +1,11 @@
 # Python
 ## 파이썬으로 벽돌개기 게임 만들기
 
+
+
+<img width="803" height="630" alt="image" src="https://github.com/user-attachments/assets/3915ad11-e473-4a41-b8d8-cad3580b4cb4" />
+
+
 ```c
 import pygame
 import sys
